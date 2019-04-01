@@ -1,0 +1,12 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+canvas{
+  border: 1px solid;
+}
+button{
+  border-radius: 50px;
+  width:50px;
+  margin: 0;
+  height:50px
+}
